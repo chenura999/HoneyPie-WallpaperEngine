@@ -66,6 +66,10 @@ If the application crashes:
 2. Check if your graphics drivers are up to date
 3. Try running the application as administrator
 
+##Download
+
+--->https://drive.google.com/drive/folders/1SCZKHr1oAaF3zMuxtjZXTl52IYTuN_sW?usp=drive_link<--
+
 ## License
 
 MIT License 
